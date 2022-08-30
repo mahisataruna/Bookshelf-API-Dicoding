@@ -1,0 +1,25 @@
+{
+  "name": "bookshelf-api-dicoding",
+  "version": "1.0.0",
+  "description": "Merupakan tugas submission Bookshelf-API Dicoding",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahisataruna/Bookshelf-API-Dicoding.git"
+  },
+  "author": "mahisataruna4@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahisataruna/Bookshelf-API-Dicoding/issues"
+  },
+  "homepage": "https://github.com/mahisataruna/Bookshelf-API-Dicoding#readme",
+  "devDependencies": {
+    "eslint": "^8.23.0",
+    "form-data": "^4.0.0",
+    "hapi": "^3.0.0",
+    "nodemon": "^2.0.19"
+  }
+}
